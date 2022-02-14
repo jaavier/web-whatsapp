@@ -1,3 +1,7 @@
+# Web WhatsApp made in React and TailwindCSS
+
+<img width="1440" alt="Screenshot 2022-02-14 at 01 52 23" src="https://user-images.githubusercontent.com/990085/153783397-41a0d2ac-139f-4b17-b7cf-da58dda0b5ec.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
