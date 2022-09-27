@@ -7,7 +7,7 @@ export default function Search() {
         <i className="fa fa-search" />
       </div>
       <div className="h-full w-full">
-        <input className="bg-gray-200 w-full h-full rounded-r-lg p-2 text-sm" type="text" placeholder="Search" />
+        <input className="bg-gray-200 w-full h-full rounded-r-lg p-2 text-sm outline-none" type="text" placeholder="Search" />
       </div>
     </div>
   );
