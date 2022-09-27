@@ -14,7 +14,7 @@ function Contact(props) {
   const { contact } = props;
 
   return (
-    <li className="py-3 px-4 border-b hover:bg-gray-200">
+    <li className="py-3 px-4 border-b hover:bg-gray-200 hover:cursor-pointer">
       <div className="flex items-center relative">
         <div className="h-13 w-13">
           <img src="https://random.imagecdn.app/49/49" className="rounded-full" alt="avatar" />
